@@ -1,9 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
--------
-
 # Projeto EBOOK Gerado por I.A.s
 
 
@@ -68,7 +62,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspDiego D. Leitão<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Dantesys">
-    GitHub</a>&nbsp;|&nbsp;</p>
+    GitHub</a></p>
 </p>
 <br/><br/>
 <p>
